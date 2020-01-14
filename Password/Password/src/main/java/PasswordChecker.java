@@ -11,17 +11,19 @@ public class PasswordChecker {
 
         try {
             if(psswrd.length() != 0){
-                if(psswrd.length() >= 8){
-                    for(int u=0; u<changeit.length; u++){
-                        if(Character.isUpperCase(changeit[u])){
-                            for(int l=0;l<changeit.length; l++){
-                                if(Character.isLowerCase(changeit[l])){
-                                    for(int d=0; d<changeit.length; d++){
-                                        if(Character.isDigit(changeit[d])){
-                                            if(match.find()) {
-                                                System.out.println("your password is valid");
-                                                return true;
-                                            }
+        if(psswrd.length() >= 8){
+            for(int u=0; u<changeit.length; u++){
+            if(Character.isUpperCase(changeit[u])){
+            for(int l=0;l<changeit.length; l++){
+            if(Character.isLowerCase(changeit[l])){
+            for(int d=0; d<changeit.length; d++){
+                if(Character.isDigit(changeit[d])){
+            if(match.find()) {
+                System.out.println("your password is valid");
+                return true;
+                                            }else{
+                throw new Exception("your password doesn't have special character");
+            }
                                         }
                                     }
                                 }
@@ -30,9 +32,11 @@ public class PasswordChecker {
                     }
 
 
-                }else{System.out.println("your password is in valid");}
+                }else{
+                    throw new Exception("your password is invalid");
+                }
             }else{
-                System.out.println("this field can't be empty!");
+                throw new Exception("this field can't be empty!");
             }
         }catch (Exception e){
             System.out.println(e);
@@ -83,8 +87,7 @@ public class PasswordChecker {
         System.out.println("please enter your password");
         String input = scan.nextLine();
         PasswordChecker pass = new PasswordChecker();
-        //pass.passwordIsValid(input);
-        pass.passwordIsOk(input);
+        pass.passwordIsValid(input);
+        //pass.passwordIsOk(input);
     }
 }
-
