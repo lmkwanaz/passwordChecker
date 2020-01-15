@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e86fe5f-9f1e-4d37-a23a-a57a14587a2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WKyz3J52fAuYZE4heqn9IIoD2M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.PasswordChecker1 [dependencies]">
+    <configuration name="PasswordChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordChecker" />
+      <module name="PasswordChecker1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordChecker1 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'PasswordChecker1.test'" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PasswordChecker1 [dependencies]" />
+        <item itemvalue="Application.PasswordChecker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e86fe5f-9f1e-4d37-a23a-a57a14587a2c" name="Default Changelist" comment="" />
+      <created>1578912840011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578912840011</updated>
+      <workItem from="1578912843970" duration="1119000" />
+      <workItem from="1579091351979" duration="5108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="59" width="847" height="684" key="#Project_Structure" timestamp="1578912904026">
+      <screen x="42" y="27" width="982" height="741" />
+    </state>
+    <state x="128" y="59" width="847" height="684" key="#Project_Structure/42.27.982.741@42.27.982.741" timestamp="1578912904026" />
+    <state x="207" y="27" width="642" height="741" key="#Tests_in_'PasswordChecker1.test'" timestamp="1579091612852">
+      <screen x="42" y="27" width="982" height="741" />
+    </state>
+    <state x="207" y="27" width="642" height="741" key="#Tests_in_'PasswordChecker1.test'/42.27.982.741@42.27.982.741" timestamp="1579091612852" />
+    <state x="311" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579091605024">
+      <screen x="42" y="27" width="982" height="741" />
+    </state>
+    <state x="311" y="155" width="424" height="491" key="FileChooserDialogImpl/42.27.982.741@42.27.982.741" timestamp="1579091605024" />
+    <state width="936" height="172" key="GridCell.Tab.0.bottom" timestamp="1579094005898">
+      <screen x="42" y="27" width="982" height="741" />
+    </state>
+    <state width="936" height="172" key="GridCell.Tab.0.bottom/42.27.982.741@42.27.982.741" timestamp="1579094005898" />
+    <state width="936" height="172" key="GridCell.Tab.0.center" timestamp="1579094005897">
+      <screen x="42" y="27" width="982" height="741" />
+    </state>
+    <state width="936" height="172" key="GridCell.Tab.0.center/42.27.982.741@42.27.982.741" timestamp="1579094005897" />
+    <state width="936" height="172" key="GridCell.Tab.0.left" timestamp="1579094005897">
+      <screen x="42" y="27" width="982" height="741" />
+    </state>
+    <state width="936" height="172" key="GridCell.Tab.0.left/42.27.982.741@42.27.982.741" timestamp="1579094005897" />
+    <state width="936" height="172" key="GridCell.Tab.0.right" timestamp="1579094005898">
+      <screen x="42" y="27" width="982" height="741" />
+    </state>
+    <state width="936" height="172" key="GridCell.Tab.0.right/42.27.982.741@42.27.982.741" timestamp="1579094005898" />
+    <state x="293" y="102" width="469" height="611" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579095964565">
+      <screen x="42" y="27" width="982" height="741" />
+    </state>
+    <state x="293" y="102" width="469" height="611" key="com.intellij.testIntegration.createTest.CreateTestDialog/42.27.982.741@42.27.982.741" timestamp="1579095964565" />
+    <state x="42" y="27" width="972" height="741" key="new project wizard" timestamp="1579092774935">
+      <screen x="42" y="27" width="982" height="741" />
+    </state>
+    <state x="42" y="27" width="972" height="741" key="new project wizard/42.27.982.741@42.27.982.741" timestamp="1579092774935" />
+  </component>
+</project>
